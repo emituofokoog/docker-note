@@ -1,4 +1,4 @@
-#### [http://www.docker.org.cn](http://www.docker.org.cn/book/docker/what-is-docker-16.html "摘抄自Docker中文网站")/
+#### 摘抄自[Docker中文网站](http://www.docker.org.cn/)
 
 #### 是一个允许用户在任何地方构建、分发及运行任何 应用的平台!
 
@@ -15,7 +15,7 @@
 * 在服务型环境中部署和调整数据库或其他的后台应用；
 * 从头编译或者扩展现有的OpenShift或Cloud Foundry平台来搭建自己的PaaS环境。
 
-#### Docker Starter
+#### [Docker Starter](https://docs.docker.com/get-started/)
 
 
 
